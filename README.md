@@ -1,4 +1,4 @@
-# 🚀 BIXA Database Migration Tool v3.3
+# 🚀 BIXA Database Migration Tool v1.0
 
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue.svg)](https://python.org)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
