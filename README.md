@@ -330,27 +330,12 @@ MIT License - see LICENSE file for details.
 
 ## 🚀 Changelog
 
-### v3.3 (Current)
+### v1.0 (Current)
 - ✅ Real SQL file parsing implementation
 - ✅ Fixed user migration with actual database operations
 - ✅ Improved error handling and logging
 - ✅ Enhanced UI with progress tracking
 - ✅ Auto-dependency installation
-
-### v3.2
-- ✅ Modern dark theme UI
-- ✅ Sidebar navigation
-- ✅ Real-time progress bars
-- ✅ SMTP email integration
-
-### v3.1
-- ✅ Basic GUI implementation
-- ✅ Database connection testing
-- ✅ Configuration save/load
-
-### v3.0
-- ✅ Initial release with Tkinter GUI
-- ✅ Basic migration functionality
 
 ---
 
