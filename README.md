@@ -308,9 +308,8 @@ pip3 install mysql-connector-python PyMySQL bcrypt
 ## 📞 Support
 
 ### Documentation
-- **GitHub**: [Repository Link]
+- **GitHub**: Bixacloud/bixa
 - **Telegram**: @bixacloud
-- **Email**: support@bixa.com
 
 ### Bug Reports
 When reporting bugs, please provide:
