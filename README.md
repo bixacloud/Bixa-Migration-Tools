@@ -297,13 +297,10 @@ pip3 install mysql-connector-python PyMySQL bcrypt
 - ✅ User status (active/inactive)
 - ✅ Registration dates
 - ✅ Password generation and hashing
+- ✅ Hosting accounts (is_account)
+- ✅ Support tickets (is_ticket)
+- ✅ SSL certificates (is_ssl)
 
-### Future Support (v4.0)
-- 🔄 Hosting accounts (is_account)
-- 🔄 Support tickets (is_ticket)
-- 🔄 SSL certificates (is_ssl)
-- 🔄 Custom fields mapping
-- 🔄 Data transformation rules
 
 ## 📞 Support
 
